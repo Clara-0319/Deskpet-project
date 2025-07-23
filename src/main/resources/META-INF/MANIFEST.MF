@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Main-Class: com.example.deskpet.Main
+Class-Path: javafx-controls-17.0.6.jar ikonli-javafx-12.3.1.jar controls
+ fx-11.2.1.jar bootstrapfx-core-0.4.0.jar audio-4.0.17.jar annotations-1
+ 3.0.jar fxgl-scene-17.3.jar kotlin-stdlib-1.8.10.jar util-4.0.17.jar li
+ fecycle-4.0.17.jar javafx-fxml-17.0.6.jar jackson-annotations-2.14.2.ja
+ r javafx-media-17.0.6.jar jackson-core-2.14.2.jar storage-4.0.17.jar fx
+ gl-core-17.3.jar javafx-base-17.0.6.jar fxgl-gameplay-17.3.jar javafx-f
+ xml-17.0.6-win.jar javafx-controls-17.0.6-win.jar jackson-databind-2.14
+ .2.jar fxgl-17.3.jar javafx-graphics-17.0.6.jar fxgl-io-17.3.jar javafx
+ -graphics-17.0.6-win.jar ikonli-core-12.3.1.jar javafx-base-17.0.6-win.
+ jar fxgl-entity-17.3.jar kotlin-stdlib-common-1.8.10.jar javafx-media-1
+ 7.0.6-win.jar
+
